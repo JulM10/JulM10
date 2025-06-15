@@ -9,7 +9,7 @@
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently Studying Sistem analist in <a href="https://ies21.edu.ar/" target="blank">Colegio Universitario IES21</a>
+- 🌱 I’m currently Studying System analist in <a href="https://ies21.edu.ar/" target="blank">Colegio Universitario IES21</a>
 
 - 📫 How to reach me **juliomadero21@gmail.com**
 
